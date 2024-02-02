@@ -12,5 +12,5 @@ Analog Inputs with 4-20mA
 relay outputs
 DIN-Rail mount
 
-Datasheet:   https://drive.google.com/open?id=1bfVHx9z0fSAx8ermmts4f0x8Y8Kikyc0&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1emB0vMaiT6QAw890P1WaPoEsds1PIuZl&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-agent-1-bt06-lte-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-agent-1-bt06-lte-user-guide/
